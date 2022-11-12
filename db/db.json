@@ -1,27 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "note_id": "123"
-    },
-    {
-        "title": "Title",
-        "text": "Body",
-        "note_id": "76593f4c-a9d3-4916-b415-85463a30f3b4"
-    },
-    {
-        "title": "sad",
-        "text": "sd",
-        "note_id": "14159128-74b2-4576-96f8-3b19164c04d3"
-    },
-    {
-        "title": "asd",
-        "text": "ads",
-        "note_id": "bddefc2c-275d-4e41-a2ed-e15f00e7488b"
-    },
-    {
-        "title": "d",
-        "text": "d",
-        "note_id": "b14d5152-e0a7-4c20-b5fd-41735b0a8ec5"
+        "title": "Welcome!",
+        "text": "Welcome to my Note Take Web Application! \n\nPress the + button to add a note. \nOnce you write the note's name and body, click the save button. \nFinally, click through your notes on the left to view or click the trash icon to delete the desired note.\n\nEnjoy!",
+        "id": "86ca7a7b-7bea-4685-9f78-0dbb489f3a80"
     }
 ]
