@@ -21,9 +21,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
  
 
 ## Usage
-To use this program, view the [Deployed Site](https://watch.screencastify.com/v/VQDZpbuMN6kgBjh21NRp) to create and save notes.
+To use this program, view the [Deployed Site](https://intense-bayou-65703.herokuapp.com/) to create and save notes.
 
 **Here's a screenshot of the website and a saved note:**
 
-![MockUp](./images/Mock%20Up%20of%20Team%20Profile%20Generator.png)
+![MockUp](./public/img/Deployed%20App%20Mock%20Up.png)
 
